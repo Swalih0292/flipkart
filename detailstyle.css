@@ -1,0 +1,278 @@
+body {
+    margin:0px
+}
+
+.headbox{
+    background-color:#2874f0;
+    height: 10vh;
+    width: 98.1vw; 
+    position: fixed;
+    margin-left: 1px;
+    
+}
+.flipbox{
+    margin-left: 150px;
+    padding-top: 5px;
+    float: left;
+}
+.flip{
+    color: white;
+    font-size: larger;
+    font-weight: 600;
+    font-style: italic;
+}.explo,.plus{
+    font-size: x-small;
+    color: white;
+    font-style: italic;
+    
+}
+.plus{
+
+    color: yellow;
+}
+.search{
+    margin-left: 80px;
+    /* width: 300px;
+    height: 30px; */
+    margin-top: 15px;
+    width: 300px
+}
+.searchbox{
+ 
+   /* background-color: aqua; */
+   margin-left: 0px;
+   float: left;
+}
+.log{
+    margin-left: 6px;
+}
+.margin{
+    
+    padding-top: 15px;
+}
+.navitem{
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+}
+.loginbox{
+    background-color: white;
+    float: left;
+    width: 50px;
+    margin-top: 16px;
+    margin-left: 10px;
+}
+.navbox{
+    background-color:white;
+    width: 98.1vw;
+    height: 20px;
+    /* margin-top: 14px; */
+    padding-top: 10px;
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+}
+.navitem1{
+    margin-left: 80px;
+    background-color: white;
+    width: 100px;
+    height: 12px;
+    text-align: center;
+    padding-bottom: 0px;
+    float: left;
+}
+.navname{
+    font-size: small;
+    
+
+}
+.containar{
+    background-color: #f0f0f0;
+    height: 120vh;
+    width: 210vh;
+
+}
+.mainbox{
+    background-color: white;
+    width: 900px;
+    height: 100vh; 
+    margin-left: 50px;
+}
+.image{
+    background-color:white;
+    width: 330px;
+    /* height: 400px; */
+    float: left;
+    margin-top: 80px;
+    margin-left: 10px;
+    
+    
+
+}.img{
+    width: 320px;
+    height: 350px;
+    float: left;
+}
+
+.addcart{
+    width: 150px;
+    height: 40px;
+    background-color: orangered;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.addtocart{
+    color: white;
+    font-size: small;
+    font-weight: 600;
+    
+    
+    
+}.addcart1{
+    background-color:#ff9f00; 
+    margin-left: 5px;
+    float: left;
+    margin-top: 10px;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    padding-top: 20px;
+}
+.detailbox{
+    width: 500px;
+    height: 80vh;
+    background-color:white;
+    float: left;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+.detilsubox{
+    margin-top: 10px;
+   
+}
+.share{
+    color: darkgray;
+}
+.shreicon{
+    width: 13px;
+    height: 13px;
+    float: left;
+    margin-top: 5px;
+}
+.imgdetail{
+    color: grey;
+    font-size: small;
+}
+.price{
+    font-weight: 500;
+    font-size: 21px;
+   
+}
+.strike{
+        margin-left: 10px;
+        font-size: small;
+        text-decoration: line-through;
+        
+}
+.off{
+    margin-left: 10px;
+    color: darkgreen;
+    font-weight: 600;
+    font-size: small;
+}
+.ratbox{
+    width: 30px;
+    background-color: green;
+    padding: 4px;
+    float: left;
+}
+.rating{
+    
+    color: white;
+    margin-left: 4px;
+    
+}
+.rtve{
+    margin-left: 10px;
+    font-size: small;
+    color: grey;
+    float: left;
+}
+.fasured{
+    width: 45px;
+    height: 15px;
+    margin-left: 10px;
+}
+.fasuredbox{
+    padding-top: 1px;
+    margin-left: 5px;
+}
+.offerbox{
+    margin-top: 30px;
+    
+}
+.aviloof{
+    font-size: small;
+    font-weight: 600;
+}
+.firstside{
+    font-size: x-small;
+    font-weight: 600;
+    
+    
+}
+.offcontant,.knowmore{
+    font-size: x-small;
+}
+.knowmore{
+    color: blue;
+    
+}
+.delivary,.delvpin{
+    font-size: x-small;
+    margin-left: 5px;
+    color: gray;
+} 
+.delvpin{
+    font-size: x-small;
+    font-weight: bold;
+
+}
+.underlinebox{
+    
+    margin-left: 5px;
+
+}
+.underline{
+    color: blue;
+}
+.sizebox{
+    margin-left: 5px;
+    float: left;
+
+
+}
+.size{
+    font-size: smaller;
+    font-weight: 600;
+    color: gray;
+
+
+}
+.sizebox1{
+    float: left;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    height: 18px;
+    width: 35px;
+    margin-top: 2px;
+    margin-left: 10px;
+    text-align: center;
+    
+
+
+}
